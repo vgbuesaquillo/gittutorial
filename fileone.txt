@@ -1,1 +1,1 @@
-Este es un archivo de prueba 
+Este es un archivo de prueba. Para ingresar texto escribimos la letra i. Para salir del modo escritura usamos la tecla ESC y para salir y guardar escribimos :wq + Enter  
